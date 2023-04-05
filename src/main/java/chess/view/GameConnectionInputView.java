@@ -19,10 +19,4 @@ public class GameConnectionInputView {
         validateIsNumeric(input);
         return Integer.parseInt(input);
     }
-
-//    public boolean doNotSave() {
-//        String input = scanner.nextLine();
-//        validateAnswer(input);
-//        return NO.equals(input);
-//    }
 }
